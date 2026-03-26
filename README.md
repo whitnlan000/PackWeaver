@@ -3,5 +3,7 @@ PackWeaver is a graph‑based command editor designed to help creators build Min
 Think of it as a hybrid between:
 
 a visual programming tool
+
 a datapack compiler
+
 a workflow editor
