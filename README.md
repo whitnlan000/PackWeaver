@@ -20,7 +20,7 @@ Think of it as a hybrid between:
 
 ## Demo
 
-![PackWeaver Demo]([Video.gif))
+![PackWeaver Demo](Video.gif)
 
 ## Features
 
