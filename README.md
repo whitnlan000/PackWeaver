@@ -29,4 +29,4 @@ Think of it as a hybrid between:
 - Save and load projects
 - Easy to use - no coding knowledge needed
 
-[![GitHub release](https://img.shields.io/github/v/release/whitnlan000/PackWeaver)](https://github.com/whitnlan000/PackWeaver/releases)
+[![GitHub release](Video.gif)
