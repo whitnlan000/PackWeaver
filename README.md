@@ -21,3 +21,6 @@ Think of it as a hybrid between:
 
 [![GitHub release](https://img.shields.io/github/v/release/whitnlan000/PackWeaver)](https://github.com/whitnlan000/PackWeaver/releases)
 [![Downloads](https://img.shields.io/github/downloads/whitnlan000/PackWeaver/total)]
+
+
+Here's a demo video. ![PackWeaver Demo](Video.gif)
