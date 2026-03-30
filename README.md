@@ -20,7 +20,7 @@ Think of it as a hybrid between:
 
 ## Demo
 
-![PackWeaver Demo](Video.gif)
+![PackWeaver Demo]([Video.gif](https://sim6cxuosp5e3ikd.anvil.app/debug/RJCRUEUHXO7ZB5UAL63D5X2MDDOQAEBJ%3DIQQQLX52KWQYAY6CI3OFYGWJ/_/lm/table-media/f37685f19ef20abb25d5414677b3994b/309250150/Video-ezgif.com-gif-maker%20%281%29.mp4?_anvil_session=))
 
 ## Features
 
