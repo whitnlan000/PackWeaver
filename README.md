@@ -11,3 +11,10 @@ Think of it as a hybrid between:
  + and a workflow editor
 
    
+## Quick Start
+1. Download `PackWeaver.zip` from the releases
+2. Extract the folder
+3. Double-click `PackWeaver.exe`
+4. Start building datapacks!
+
+**No installation required!**
