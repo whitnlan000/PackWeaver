@@ -11,7 +11,7 @@ Think of it as a hybrid between:
 
 ## Quick Start
 
-1. **[Download the latest release](https://github.com/whitnlan000/PackWeaver/releases)**
+1. Download the Packweaver.zip file
 2. Extract `PackWeaver.zip`
 3. Double-click `PackWeaver.exe`
 4. Start building datapacks!
