@@ -4,7 +4,6 @@
 
 A graph‑based command editor designed to help creators build Minecraft datapacks visually instead of writing raw .mcfunction files by hand. It turns complex command logic into a node graph that can be built, saved, and exported.
 
-Think of it as a hybrid between:
 - A visual programming tool
 - A datapack compiler  
 - A workflow editor
