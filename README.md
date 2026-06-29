@@ -10,7 +10,7 @@ A graph‑based command editor designed to help creators build Minecraft datapac
 
 ## Quick Start
 
-1. Download the Packweaver.zip file, or the newest release.
+1. Download the newest release.
 2. Extract `PackWeaver.zip`
 3. Double-click `PackWeaver.exe`
 4. Start building datapacks!
